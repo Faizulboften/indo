@@ -96,7 +96,6 @@ fi  [ $bro = 7 ] || [ $ bro = 7 ]
 then
 clear
 sleep 2
-echo"INSTALL BAHAN" | lolcat
 pkg install python2
 pip2 install requests
 pkg install openssh
@@ -111,7 +110,6 @@ if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
 sleep 2
-echo"INSTALL BAHAN" | lolcat
 apt install git
 git clone https://github.com/esc0rtd3w/wifi-hacker
 cd wifi-hacker
