@@ -8,18 +8,8 @@ echo $cyan"
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 ✔ FB : FAIZUL
 ✔ Wa : 082271426251
+✔ AU : Https://github.com/faizul
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● " 
-echo $cyan "AKU MISKIN"
-echo $cyan "KAMU KAYA"
-echo $cyan "AKU ORANG NYA GAK ADA APA APA"
-echo $cyan "MALU GAK PUNYA PACAR KE AKU"
-echo $cyan "KALO MALU BILANG LAH NJING"
-echo $cyan "wkwkw BERCANDA SOB"
-echo $cyan "LANJUT KE SCRIPNYA AJA LAH COK OKE"
-echo $cyan 'OTW NYOLONG AKUN LAH 
-LETS GO"
-clear
-sleep 15
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -55,7 +45,7 @@ echo $cy "
 ─────────────────────────────────|
 ┠──[4]✔ HACK TARGET V2        [ ON ]
 ─────────────────────────────────|
-┠──[5]✔ SPAM BRUTAL            [ ON ]
+┠──[5]✔ SPAM BRUTAL         [ COIDN ]
 ─────────────────────────────────|
 ┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
 ─────────────────────────────────|
