@@ -28,7 +28,8 @@ echo $cy "
 ┠──[5]✔ SPAM SMS 
 ┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
 ┠──[7]✔ INSTALL BAHAN
-┗────[8] exit ✘"
+┠──[8]✔ HACK WIFI [ROOT]
+┗────[9] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
@@ -64,6 +65,7 @@ fi
 if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
+sleep 2
 pkg install git
 git clone https://github.com/V4N654T/fb-hacker
 cd fb-hacker
@@ -73,6 +75,7 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
+sleep 2
 pkg install git
 git clone https://github.com/Bl4ckDr460n/SPAMer
 cd SPAMer
@@ -82,6 +85,7 @@ fi
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
+sleep 2
 pkg install git
 git clone https://github.com/Bl4ckDr460n/MarshBase
 cd MarshBase
@@ -91,6 +95,7 @@ fi
 fi  [ $bro = 7 ] || [ $ bro = 7 ]
 then
 clear
+sleep 2
 echo"INSTALL BAHAN" | lolcat
 pkg install python2
 pip2 install requests
@@ -103,6 +108,18 @@ pkg install python2-dev
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
+then
+clear
+sleep 2
+echo"INSTALL BAHAN" | lolcat
+apt install git
+git clone https://github.com/esc0rtd3w/wifi-hacker
+cd wifi-hacker
+chmod +x wifi-hacker.sh
+./wifi-hacker.sh
+fi
+
+if [ $bro = 9 ] || [ $bro = 9 ]
 then
 echo $cyan  "Subscribe Channel Htc Ctr Gaming "
 sleep 2
