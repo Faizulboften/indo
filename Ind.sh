@@ -13,23 +13,33 @@ sleep 1
 echo $purple "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ 
-\033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mFaizul-crakcer
+\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92mFAIZUL BOFTEN\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ 
+\033[1;93m█ \033[1;92m \033[1;92mX TKJ 2\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92mSMKN 1 AMPANA KOTA\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mFaizul-crakcer
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██"
 echo $cy "
 ┏━━━━━┫{✔ TOOLS BY FAIZUL ✔}┣━━━━━┓
-┃
+──────────────────
 ┠──[1]✔ BRUTE FB
+───────────────────
 ┠──[2]✔ HACK FB PREMIUM
+───────────────────
 ┠──[3]✔ PERUSAK HP
+──────────────────
 ┠──[4]✔ HACK TARGET
-┠──[5]✔ SPAM SMS 
+──────────────────
+┠──[5]✔ SPAM SMS
+──────────────────
 ┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
+──────────────────
 ┠──[7]✔ HACK AKUN G7 PROJECT
+──────────────────
 ┠──[8]✔ JADWAL SHOLAT
-┗────[9] exit ✘"
+──────────────────
+┠──[9]✔ VISITIOR WEBSITE
+──────────────────
+┗────[10] exit/program ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
@@ -114,6 +124,17 @@ python sholat.py
 fi
 
 if [ $bro = 9 ] || [ $bro = 9 ]
+then
+clear
+sleep 2
+pkg install git
+pip2 install mechanize
+git clone https://github.com/hatakecnk/Auto_Visitor
+cd AutoAuto_Visitor 
+Php auto_visitor.php
+fi
+
+if [ $bro = 10 ] || [ $bro = 10 ]
 then
 echo $cyan  "Subscribe Channel Htc Ctr Gaming "
 sleep 2
