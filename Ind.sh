@@ -1,5 +1,14 @@
 clear
-sleep 4
+echo $cyan "SEDANG MASUK KE TOOLS NYA "
+sleep 5
+clear
+echi $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
+sleep 10
+echo $cyan" 
+●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
+✔ FB : FAIZUL
+✔ Wa : 082271426251
+●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬● "           
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -31,13 +40,13 @@ echo $cy "
 ─────────────────────────────────|
 ┠──[1]✔ HACK TARGET V1         [ ON ]
 ─────────────────────────────────|
-┠──[2]✔ HACK FB PREMIUM       [ COID ]
+┠──[2]✔ HACK FB PREMIUM     [ COID ]
 ─────────────────────────────────|
 ┠──[3]✔ PERUSAK HP            [ ON ]
 ─────────────────────────────────|
 ┠──[4]✔ HACK TARGET V2        [ ON ]
 ─────────────────────────────────|
-┠──[5]✔ SPAM SMS              [ ON ]
+┠──[5]✔ SPAM BRUTAL            [ ON ]
 ─────────────────────────────────|
 ┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
 ─────────────────────────────────|
@@ -53,7 +62,7 @@ echo $cy "
 ─────────────────────────────────|
 ┠──[12]✔ MEMBUAT DEFICE       [ ON ]
 ─────────────────────────────────|
-┗────[13] exit/program ✘"
+┗────[13] EXIT/PROGRAM ✘"
 echo '\033[35;1m'
 read -p "localhost@Pilih Nomor > " bro
 
@@ -111,10 +120,9 @@ clear
 sleep 2
 echo $cyan " MENGGINSTALL COK "
 sleep 10
-pkg install git
-git clone https://github.com/Bl4ckDr460n/SPAMer
-cd SPAMer
-python2 SPAMer.py
+git clone https://github.com/MrTamfanX/MrTamfanSpam
+cd MrTamfanSpam
+sh MrTamfanSpam.sh
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
