@@ -13,9 +13,9 @@ sleep 1
 echo $purple "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
-\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m[   FAIZUL BOFTEN\033   ][1;95mFAIZUL GANTEMG 
+\033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m[   FAIZUL BOFTEN\033[1;95mFAIZUL GANTEMG 
 \033[1;93m█ \033[1;92m \033[1;92m      [       X TKJ 2           ]\033[1;93m MASI JOMBLOH ANJING
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m[SMKN 1 AMPANA KOTA]\033[1;96m [JANGAN KETWA LU ANJING]\033[1;96m [Faizul-crakcer]
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m[SMKN 1 AMPANA KOTA]\033[1;96m [JANGAN KETWA LU ANJING]\033[1;96m [Faizul
 \033[1;93m█████████      \033[1;92m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m ██ ██"
 echo $cy "
@@ -29,9 +29,9 @@ echo $cy "
 ┏━━━━━┫{📂 TOOLS BY FAIZUL 📂}┣━━━━━┓
 
 ─────────────────────────────────|
-┠──[1]✔ BRUTE FB              [ ON ]
+┠──[1]✔ HACK TARGET V1         [ ON ]
 ─────────────────────────────────|
-┠──[2]✔ HACK FB PREMIUM       [ ON ]
+┠──[2]✔ HACK FB PREMIUM       [ COID ]
 ─────────────────────────────────|
 ┠──[3]✔ PERUSAK HP            [ ON ]
 ─────────────────────────────────|
@@ -61,6 +61,9 @@ if [ $bro = 1 ] || [ $bro = 1 ]
 then
 sleep 2
 clear
+echo $cyan "MENGGINSTALK COK"
+echo $cyan "PASTIKAN JARINGGAN BAGUS"
+sleep 10
 pkg install git
 git clone https://github.com/MRA27/FBNEWV2
 cd FBNEWV2
@@ -71,6 +74,8 @@ if [ $bro = 2 ] || [ $bro = 2 ]
 then
 sleep 2
 clear
+echo $cyan "SCRIP SUDAH COID"
+sleep 30
 pkg install git
 git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
 cd Black-Fb-Premium
@@ -81,6 +86,8 @@ if [ $bro = 3 ] || [ $bro = 3 ]
 then
 sleep 2
 clear
+echo $cyan "MENGINSTALL COK"
+sleep 10
 git clone https://github.com/justahackers/perusak
 cd perusak
 python2 perusak.py
@@ -90,6 +97,8 @@ if [ $bro = 4 ] || [ $bro = 4 ]
 then
 clear
 sleep 2
+echo $cyan " MENGINSTALL COK "
+sleep 10
 pkg install git
 git clone https://github.com/V4N654T/fb-hacker
 cd fb-hacker
@@ -100,6 +109,8 @@ if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 sleep 2
+echo $cyan " MENGGINSTALL COK "
+sleep 10
 pkg install git
 git clone https://github.com/Bl4ckDr460n/SPAMer
 cd SPAMer
@@ -110,6 +121,8 @@ if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 sleep 2
+echo $cyan " MENGGINSTALL COK "
+sleep 10
 pkg install git
 git clone https://github.com/Bl4ckDr460n/MarshBase
 cd MarshBase
@@ -120,6 +133,8 @@ if [ $bro = 7 ] || [ $bro = 7 ]
 then 
 clear
 sleep 2
+echo $cyan " MENGGINSTALL COK "
+sleep 10
 pkg install git
 git clone https://github.com/G7-Hckr/G7-Project
 cd G7-Project
@@ -130,6 +145,8 @@ if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
 sleep 2
+echo $cyan " MENGGINSTALL COK "
+sleep 10
 pkg install git
 git clone https://github.com/karjok/sholat/
 cd sholat
@@ -140,7 +157,9 @@ fi
 if [ $bro = 9 ] || [ $bro = 9 ]
 then
 clear
-sleep 2
+sleep 5
+echo $cyan " MENGGINSTALL COK "
+sleep 10
 pkg install git
 git clone https://github.com/FR13ND8/BruteFb
 cd BruteFb
@@ -151,6 +170,8 @@ if [ $bro = 10 ] || [ $bro = 10 ]
 then
 clear
 sleep 5
+echo $cyan " MENGINSTALL ABA "
+sleep 10
 pkg install git
 pkg install php
 pkg install curll
@@ -162,7 +183,9 @@ fi
 if [ $bro = 11 ] || [ $bro = 11 ]
 then
 clear
-sleep 8
+sleep 5
+echo $cyan " HARAP MENUGGU SEDANG MENGINSTALL "
+sleep 10
 pkg install lolcat
 pkg install nano
 pkg install git
@@ -177,7 +200,7 @@ if [ $bro = 12 ] || [ $bro = 12 ]
 then
 clear
 echo $cyan "MENGGINSTTALL COK"
-sleep 2
+sleep 10
 pkg instalk git
 git clone https://github.com/G7-Hckr/G7Deface
 cd G7Deface
