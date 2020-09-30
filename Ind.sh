@@ -1,5 +1,5 @@
 clear
-sleep 5
+sleep 4
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -27,7 +27,7 @@ echo $cy "
 ┃
 ┠──[3]✔ PERUSAK HP
 ┠
-┠──[4]✔ 
+┠──[4]✔ CLON AKUN LUAR
 ┗────[5] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
@@ -62,6 +62,15 @@ python2 perusak.py
 fi
 
 if [ $bro = 4 ] || [ $bro = 4 ]
+then
+clear
+pkg install git
+git clone https://github.com/V4N654T/fb-hacker
+cd fb-hacker
+python2 fb.py
+fi
+
+if [ $bro = 5 ] || [ $bro = 5 ]
 then
 echo $cyan  "Subscribe Channel Htc Ctr Gaming "
 sleep 2
