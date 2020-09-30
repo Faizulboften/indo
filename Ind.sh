@@ -1,3 +1,5 @@
+clear
+sleep 5
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -17,14 +19,16 @@ echo $purple "
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██"
 echo $cy "
-┏━━━━━┫{✔ menu hacking sob ✔}┣━━━━━┓
+┏━━━━━┫{✔ menu hacking by faizul ✔}┣━━━━━┓
 ┃
 ┠──[1]✔ BRUTE FV
 ┃
 ┠──[2]✔ HACK FB PREMIUM
 ┃
 ┠──[3]✔ PERUSAK HP
-┗────[4] exit ✘"
+┠
+┠──[4]✔ 
+┗────[5] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
