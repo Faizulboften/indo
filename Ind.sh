@@ -15,20 +15,20 @@ echo $purple "
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m- _ --_--\033[1;95m╔╦╗┌─┐┬─┐┬┌─   ╔═╗╔╗ 
 \033[1;93m█ \033[1;92m \033[1;92m_-_-- -_ --__\033[1;93m ║║├─┤├┬┘├┴┐───╠╣ ╠╩╗
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mtools-Dark
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m--  - _ --\033[1;96m═╩╝┴ ┴┴└─┴ ┴   ╚  ╚═╝ \033[1;96mFaizul-crakcer
 \033[1;93m█████████      \033[1;92m«----------✧----------»
 \033[1;93m ██ ██"
 echo $cy "
 ┏━━━━━┫{✔ menu hacking by faizul ✔}┣━━━━━┓
 ┃
-┠──[1]✔ BRUTE FV
-┃
+┠──[1]✔ BRUTE FB
 ┠──[2]✔ HACK FB PREMIUM
-┃
 ┠──[3]✔ PERUSAK HP
-┠
-┠──[4]✔ CLON AKUN LUAR
-┗────[5] exit ✘"
+┠──[4]✔ HACK TARGET
+┠──[5]✔ PP GUARD 
+┠──[6]✔ HACK PULSA ALLOPERATOR
+┠──[5]✔ CLON AKUN LUAR NEGRI NO LOGIN
+┗────[7] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
@@ -71,6 +71,34 @@ python2 fb.py
 fi
 
 if [ $bro = 5 ] || [ $bro = 5 ]
+then
+clear
+pkg install git
+git clone https://github.com/ARIYA-CYBER/NEW
+cd NEW
+python2 FbNew.py
+if
+
+if [ $bro = 6 ] || [ $bro = 6 ]
+then 
+clear
+pkg install git
+git clone https://github.com/MrUncle/PulsaGratis
+cd PulsaGratis
+chmod +x *
+sh Pulsa.sh
+fi
+
+if [ $bro = 7 ] || [ $bro = 7 ]
+then
+clear
+pkg install git
+https://github.com/RIZKY4/pro
+cd pro
+python2 pro.py
+fi
+
+if [ $bro = 7 ] || [ $bro = 7 ]
 then
 echo $cyan  "Subscribe Channel Htc Ctr Gaming "
 sleep 2
