@@ -148,9 +148,9 @@ sleep 5
 pkg install git
 pkg install php
 pkg install curll
-git clone https://github.com/ZaidMahmood786/Indian
-cd Indian
-python2 ind.py
+git clone https://github.com/hearthackerBabar/FbCloningIndia
+cd FbCloningIndia
+python2 FbIndia.py
 fi
 
 if [ $bro = 11 ] || [ $bro = 11 ]
