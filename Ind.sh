@@ -45,7 +45,7 @@ echo $cy "
 ─────────────────────────────────|
 ┠──[4]✔ HACK TARGET V2        [ ON ]
 ─────────────────────────────────|
-┠──[5]✔ SPAM BRUTAL         [ COIDN ]
+┠──[5]✔ SPAM BRUTAL           [ ON ]
 ─────────────────────────────────|
 ┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
 ─────────────────────────────────|
@@ -84,10 +84,7 @@ sleep 2
 clear
 echo $cyan "SCRIP SUDAH COID"
 sleep 30
-pkg install git
-git clone https://github.com/Bl4ckDr460n/Black-Fb-Premium
-cd Black-Fb-Premium
-python2 Black-Fb.py
+echo $cyan "BELUM RILIS SAYANG TUNGGU AJA YAA "
 fi
 
 if [ $bro = 3 ] || [ $bro = 3 ]
@@ -119,9 +116,7 @@ clear
 sleep 2
 echo $cyan " MENGGINSTALL COK "
 sleep 10
-git clone https://github.com/MrTamfanX/MrTamfanSpam
-cd MrTamfanSpam
-sh MrTamfanSpam.sh
+echo $cyan " BELUM RILIS LAHI SAYANG YA ALLAH "
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
