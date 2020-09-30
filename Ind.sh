@@ -2,7 +2,7 @@ clear
 echo $cyan "SEDANG MASUK KE TOOLS NYA "
 sleep 5
 clear
-echi $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
+echo $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
 sleep 10
 echo $cyan" 
 ●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
