@@ -45,7 +45,9 @@ echo $cy "
 ─────────────────────────────────|
 ┠──[9]✔ HACK TARGET 
 ─────────────────────────────────|
-┗────[10] exit/program ✘"
+┠──[10]✔ CLON INDIA
+─────────────────────────────────|
+┗────[11] exit/program ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
@@ -139,12 +141,21 @@ cd BruteFb
 python2 brute.py
 fi
 
-
-
-
 if [ $bro = 10 ] || [ $bro = 10 ]
 then
-echo $cyan  "Subscribe Channel Htc Ctr Gaming "
-sleep 2
+clear
+sleep 5
+pkg install git
+pkg install php
+pkg install curll
+git clone https://github.com/ZaidMahmood786/Indian
+cd Indian
+python2 ind.py
+fi
+
+if [ $bro = 11 ] || [ $bro = 11 ]
+then
+echo $cyan  "SUBSCIRIBEE TY HTC CTR GAMING"
+sleep 5
 exit
 fi
