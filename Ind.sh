@@ -25,10 +25,10 @@ echo $cy "
 ┠──[2]✔ HACK FB PREMIUM
 ┠──[3]✔ PERUSAK HP
 ┠──[4]✔ HACK TARGET
-┠──[5]✔ PP GUARD 
-┠──[6]✔ HACK PULSA ALLOPERATOR
-┠──[5]✔ CLON AKUN LUAR NEGRI NO LOGIN
-┗────[7] exit ✘"
+┠──[5]✔ PULS GRATIS
+┠──[6]✔ 
+┠──[7]✔ 
+┗────[8] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
 
@@ -98,7 +98,7 @@ cd pro
 python2 pro.py
 fi
 
-if [ $bro = 7 ] || [ $bro = 7 ]
+if [ $bro = 8 ] || [ $bro = 8 ]
 then
 echo $cyan  "Subscribe Channel Htc Ctr Gaming "
 sleep 2
