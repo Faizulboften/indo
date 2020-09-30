@@ -27,8 +27,8 @@ echo $cy "
 ┠──[4]✔ HACK TARGET
 ┠──[5]✔ SPAM SMS 
 ┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
-┠──[7]✔ INSTALL BAHAN
-┠──[8]✔ HACK WIFI [ROOT]
+┠──[7]✔ HACK AKUN G7 PROJECT
+┠──[8]✔ JADWAL SHOLAT
 ┗────[9] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
@@ -92,29 +92,25 @@ cd MarshBase
 python2 MarshBase.py
 fi
 
-fi  [ $bro = 7 ] || [ $ bro = 7 ]
-then
+if [ $bro = 7 ] || [ $bro = 7 ]
+then 
 clear
 sleep 2
-pkg install python2
-pip2 install requests
-pkg install openssh
-pkg install php
-pkg install nodejs
-pkg install nodejs-lts
-pkg install python python2
-pkg install python2-dev
+pkg install git
+git clone https://github.com/G7-Hckr/G7-Project
+cd G7-Project
+sh al.sh
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
 clear
 sleep 2
-apt install git
-git clone https://github.com/esc0rtd3w/wifi-hacker
-cd wifi-hacker
-chmod +x wifi-hacker.sh
-./wifi-hacker.sh
+pkg install git
+git clone https://github.com/karjok/sholat/
+cd sholat
+pip install -r modul.txt
+python sholat.py
 fi
 
 if [ $bro = 9 ] || [ $bro = 9 ]
