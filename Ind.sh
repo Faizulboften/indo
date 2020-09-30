@@ -18,8 +18,8 @@ echo $cyan "wkwkw BERCANDA SOB"
 echo $cyan "LANJUT KE SCRIPNYA AJA LAH COK OKE"
 echo $cyan 'OTW NYOLONG AKUN LAH 
 LETS GO"
-sleep 15
 clear
+sleep 15
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
