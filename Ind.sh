@@ -1,7 +1,5 @@
 clear
 sleep 4
-echo(" 📂 SMKN 1 AMPANA KOTA   ")
-echo(" 📂 X TKJ 2              ")
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
