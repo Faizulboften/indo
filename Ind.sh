@@ -25,9 +25,9 @@ echo $cy "
 ┠──[2]✔ HACK FB PREMIUM
 ┠──[3]✔ PERUSAK HP
 ┠──[4]✔ HACK TARGET
-┠──[5]✔ PULS GRATIS
-┠──[6]✔ 
-┠──[7]✔ 
+┠──[5]✔ SPAM SMS 
+┠──[6]✔ MEMBUKA FILE TERKUNCI BS4
+┠──[7]✔ INSTALL BAHAN
 ┗────[8] exit ✘"
 echo '\033[35;1m'
 read -p "root@Pilih Nomor > " bro
@@ -74,28 +74,32 @@ if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
 pkg install git
-git clone https://github.com/ARIYA-CYBER/NEW
-cd NEW
-python2 FbNew.py
-if
-
-if [ $bro = 6 ] || [ $bro = 6 ]
-then 
-clear
-pkg install git
-git clone https://github.com/MrUncle/PulsaGratis
-cd PulsaGratis
-chmod +x *
-sh Pulsa.sh
+git clone https://github.com/Bl4ckDr460n/SPAMer
+cd SPAMer
+python2 SPAMer.py
 fi
 
-if [ $bro = 7 ] || [ $bro = 7 ]
+if [ $bro = 6 ] || [ $bro = 6 ]
 then
 clear
 pkg install git
-https://github.com/RIZKY4/pro
-cd pro
-python2 pro.py
+git clone https://github.com/Bl4ckDr460n/MarshBase
+cd MarshBase
+python2 MarshBase.py
+fi
+
+fi  [ $bro = 7 ] || [ $ bro = 7 ]
+then
+clear
+echo"INSTALL BAHAN" | lolcat
+pkg install python2
+pip2 install requests
+pkg install openssh
+pkg install php
+pkg install nodejs
+pkg install nodejs-lts
+pkg install python python2
+pkg install python2-dev
 fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
