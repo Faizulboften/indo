@@ -22,8 +22,8 @@ echo $purple "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m[   FAIZUL BOFTEN\033[1;95mFAIZUL GANTEMG 
-\033[1;93m█ \033[1;92m \033[1;92m      [       X TKJ 2           ]\033     [1;93m MASI JOMBLOH ANJING
-\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m[SMKN 1 AMPANA KOTA]\033[1;96m      [JANGAN KETWA LU ANJING]\033[1;96m [Faizul
+\033[1;93m█ \033[1;92m \033[1;92m      [       X TKJ 2           ]\033[1;93m MASI JOMBLOH ANJING
+\033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m[SMKN 1 AMPANA KOTA]\033[1;96m[JANGAN KETWA LU ANJING]\033[1;96m [Faizul
 \033[1;93m█████████      \033[1;92m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m ██ ██"
 echo $cy "
@@ -66,7 +66,9 @@ echo $cy "
 ─────────────────────────────────|
 ┠──[14]⭕ RETAS WAATSAPPPS 100%       ✔
 ─────────────────────────────────|
-┗────[15] EXIT/PROGRAM🔴"
+┠──[15]📂 MENGHAPUS DATA SCRIP TERMUX ✔
+─────────────────────────────────|
+┗────[16] EXIT/PROGRAM🔴"
 echo '\033[35;1m'
 read -p "localhost@Pilih Nomor > " bro
 
@@ -239,7 +241,17 @@ chmod +x metasploit.sh
 ./metasploit.sh
 fi
 
-if [ $bro = 15 ] || [ $bro = 14 ]
+if [ $bro = 15 ] || [ $bro = 15 ]
+then
+clear
+echo $cyan " MOHOM BERSABAR LAGI MEMUAT DATANYA"
+sleep 50
+pip2 install mc
+pkg install mc
+mc
+fi
+
+if [ $bro = 16 ] || [ $bro = 16 ]
 then
 echo $cyan  "SUBSCIRIBEE TY HTC CTR GAMING"
 sleep 5
