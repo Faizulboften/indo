@@ -265,8 +265,7 @@ cd Dark-Fb
 bash install.sh
 fi
 
-if [ $bro = 17 ] || [ = $bro = 17 ]
-then
+
 clear
 echo $cyan " MASUK KE APK YOUTUBE YAA"
 sleep 10
