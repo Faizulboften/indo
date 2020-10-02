@@ -3,9 +3,8 @@ echo $cyan "SEDANG MASUK KE TOOLS NYA "
 sleep 5
 clear
 echo $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
+termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
 sleep 10
-echo $cyan url"( https://facebook.com")
-clear
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
