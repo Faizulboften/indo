@@ -291,7 +291,7 @@ pkg install mpv
 mpv /lokasi/musik/musik.mp3
 fi
 
-if [ $bro = 18 ] || [ = $bro = 18]
+if [ $bro = 19 ] || [ = $bro = 19 ]
 then
 clear
 echo $cyan " MENGGINSTALL CUK"
@@ -300,6 +300,7 @@ echo $cyan " Hack WIFI DI TERMUX MANA BISA HALU KALIAN"
 pkg install git
 git clone https://github.com/derv82/wifite
 cd wifite
+chmod 777 wifite.py
 python2 wifite.py
 fi
 
