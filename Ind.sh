@@ -283,6 +283,6 @@ then
 echo $cyan  "SUBSCIRIBEE TY HTC CTR GAMING"
 sleep5
 termux-open https://xxxnx.com
-sleep2
+sleep 2
 exit
 fi
