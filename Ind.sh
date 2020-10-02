@@ -229,6 +229,7 @@ sleep 50
 pip2 install requests
 pip2 install mechanize
 pkg install git
+echo $cyan "SCRIP MASI EROR
 git clone https://github.com/NoobHackersCOM/Sensei
 cd Sensei
 python2 main.py
@@ -272,11 +273,7 @@ clear
 echo $cyab " MENGGINSTALL SCRIP"
 sleep 20
 pip2 install mechanize
-git clone https://github.com/CenelKITA22/BOT-IG
-cd BOT-IG
-unzip node_modules.zip
-npm install instagram-api-private
-node index.js
+echo $cyan " SCRIP BELUM RILIS MASJ DALAM UPDETAN"
 fi
 
 
