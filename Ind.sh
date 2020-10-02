@@ -127,7 +127,7 @@ clear
 sleep 2
 echo $cyan " MENGGINSTALL COK "
 sleep 10
-echo $cyan " BELUM RILIS LAHI SAYANG YA ALLAH "
+echo $cyan " BELUM RILIS LAGI SAYANG YA ALLAH "
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
@@ -261,7 +261,7 @@ clear
 echo $cyan " MENGINSTALL HARAP TUNGGU
 sleep 20
 pkg install git
-https://github.com/Mr-XsZ/Dark-Fb
+git clone https://github.com/Mr-XsZ/Dark-Fb
 cd Dark-Fb
 bash install.sh
 fi
