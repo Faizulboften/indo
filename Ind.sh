@@ -24,9 +24,9 @@ echo $me "
 echo $pu "
      🔴●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●🔴
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🔓━━━━━┫{🔘 FB : Faizul           }┣━━━━━🔓
-🔓━━━━━┫{🔘 WA : 082271426251     }┣━━━━━🔓
-🔓━━━━━┫{🔘 YT : HTC CTR GAMING   }┣━━━━━🔓
+🔓━━━━━┫{🔘 FB : Faizul         }┣━━━━━🔓
+🔓━━━━━┫{🔘 WA : 082271426251   }┣━━━━━🔓
+🔓━━━━━┫{🔘 YT : HTC CTR GAMING }┣━━━━━🔓
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
   
   
@@ -296,10 +296,10 @@ then
 clear
 echo $cyan " MENGGINSTALL CUK"
 sleep 20
+echo $cyan " Hack WIFI DI TERMUX MANA BISA HALU KALIAN"
 pkg install git
 git clone https://github.com/derv82/wifite
 cd wifite
-chmod 777 wifite.py
 python2 wifite.py
 fi
 
