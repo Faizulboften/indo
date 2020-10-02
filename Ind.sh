@@ -282,7 +282,7 @@ if [ $bro = 18 ] || [ $bro = 18 ]
 then
 echo $cyan  "SUBSCIRIBEE TY HTC CTR GAMING"
 sleep5
-open-termux https://xxxnx.com
+termux-open https://xxxnx.com
 sleep2
 exit
 fi
