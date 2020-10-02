@@ -269,6 +269,7 @@ if [ $bro = 17 ] || [ = $bro = 17 ]
 then
 clear
 echo $cyan " MASUK KE APK YOUTUBE YAA"
+sleep 10
 open-termux https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
 fi
 
