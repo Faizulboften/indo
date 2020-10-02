@@ -13,7 +13,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
-echo $purple "
+echo $me "
 █████████
 \033[1;93m█▄█████▄█      \033[1;91m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m█\033[1;92m▼▼▼▼▼ \033[1;92m[   FAIZUL BOFTEN\033[1;95mFAIZUL GANTEMG 
@@ -21,7 +21,7 @@ echo $purple "
 \033[1;93m█\033[1;92m▲▲▲▲▲\033[1;92m[SMKN 1 AMPANA KOTA]\033[1;96m[JANGAN KETWA LU ANJING]\033[1;96m [Faizul
 \033[1;93m█████████      \033[1;92m●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●
 \033[1;93m ██ ██"
-echo $ij "
+echo $me "
      🔴●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●🔴
   ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 🔓━━━━━┫{🔘 FB : Faizul           }┣━━━━━🔓
@@ -67,9 +67,9 @@ echo $ij "
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┠──[15]⭕ MENGHAPUS DATA SCRIP TERMUX 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-┠──[16]⭕ DRAK FB 1.8 
+┠──[16]⭕ NEMBAK APK GOFOOD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-┠──[17]⭕ CLON AKUN ML / PASSWORDNYA = hi
+┠──[17]⭕ BOT IG/NAMBAH FOLOWERS
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┗────[18] EXIT/PROGRAM🔴"
 echo '\033[35;1m'
@@ -261,9 +261,9 @@ clear
 echo $cyan " MENGINSTALL HARAP TUNGGU
 sleep 20
 pkg install git
-git clone https://github.com/Mr-XsZ/Dark-Fb
-cd Dark-Fb
-bash install.sh
+git clone https://github.com/k4xc0d3-12/punten-g0pud
+cd punten g0pud
+php dorr.php
 fi
 
 if [ $bro = 17 ] || [ = $bro =17 ]
@@ -272,9 +272,11 @@ clear
 echo $cyab " MENGGINSTALL SCRIP"
 sleep 20
 pip2 install mechanize
-git clone https://github.com/LimitQueenProject/empas-limit
-cd empas-limit
-bash empas
+git clone https://github.com/CenelKITA22/BOT-IG
+cd BOT-IG
+unzip node_modules.zip
+npm install instagram-api-private
+node index.js
 fi
 
 
