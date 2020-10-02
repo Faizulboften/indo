@@ -69,9 +69,13 @@ echo $pu "
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┠──[16]⭕ NEMBAK APK GOFOOD
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-┠──[17]⭕ BOT IG/NAMBAH FOLOWERS
+┠──[17]⭕ BOT AUTO RECTION FACEBOOK
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-┗────[18] EXIT/PROGRAM🔴"
+┠──[18]⭕ MENDEGARKAN MUSIK DI TERMUX
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┠──[19]⭕ HACK WIFI 1.9
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┗────[99] EXIT/PROGRAM🔴"
 echo '\033[35;1m'
 read -p "localhost@Pilih Nomor > " bro
 
@@ -262,9 +266,7 @@ clear
 echo $cyan " MENGINSTALL HARAP TUNGGU
 sleep 20
 pkg install git
-git clone https://github.com/k4xc0d3-12/punten-g0pud
-cd punten g0pud
-php dorr.php
+echo $cyan " BELUM RILIS LAGI"
 fi
 
 if [ $bro = 17 ] || [ = $bro =17 ]
@@ -273,15 +275,37 @@ clear
 echo $cyab " MENGGINSTALL SCRIP"
 sleep 20
 pip2 install mechanize
-echo $cyan " SCRIP BELUM RILIS MASJ DALAM UPDETAN"
+echo $cyan " SCRIP UPADTE SELESAI SELMAT MENGUNAKAN"
+git clone git clone https://github.com/AMVengeance/FB-React.git
+chmod +x FB-React -R
+cd FB-React
+./start
 fi
 
+if [ $bro = 18 ] || [ = $bro = 18 ]
+then
+clear
+echo $cyan " MENGINSTALL CUK"
+sleep 20
+pkg install mpv
+mpv /lokasi/musik/musik.mp3
+fi
 
+if [ $bro = 18 ] || [ = $bro = 18]
+then
+clear
+echo $cyan " MENGGINSTALL CUK"
+sleep 20
+pkg install git
+git clone https://github.com/derv82/wifite
+cd wifite
+chmod 777 wifite.py
+python2 wifite.py
+fi
 
-if [ $bro = 18 ] || [ $bro = 18 ]
+if [ $bro = 99 ] || [ $bro = 99 ]
 then
 echo $cyan  "SUBSCIRIBEE TY HTC CTR GAMING"
-sleep 10
 termux-open https://www.facebook.com/profile.php?id=100027772032939
 sleep 30
 exit
