@@ -14,27 +14,22 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
 echo $or "
-╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%sFAJZUL BOFTEN
-┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s20 SCRIP TOOLS HACKIG
-┃┈┃┈╰━╰━━━━━━╮%s╲╲%sJANGAN RECODE  SCRIP GUA
-╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣%s╲%s🔴INDONESIA
-╲┃┈┈┈┈┈┈┈┈┈┈▉▉▉%s╲%s🔴SILTENG
-╲┃┈┈┈┈┈┈┈┈┈┈◥▉◤%s╲%s🔴AMPANA KOTA
+╭━┳━╭━╭━╮%s╮╲╲╲╲╲╲%s  🔘FAIZUL BOFTEN
+┃┈┈┈┣▅╋▅┫┃%s╲╲╲╲╲╲%s  🔘20 SCRIP TOOLS HACKIG
+┃┈┃┈╰━╰━━━━━━╮%s╲╲%s  🔘JANGAN RECODE  SCRIP GUA
+╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣%s╲%s  🔴INDONESIA
+╲┃┈┈┈┈┈┈┈┈┈┈▉▉▉%s╲%s  🔴SULTENG
+╲┃┈┈┈┈┈┈┈┈┈┈◥▉◤%s╲%s  🔴AMPANA KOTA
 ╲┃┈┈┈┈╭━┳━━━━╯%s╲╲%s╦ ╦╦ ╦╔═╗╔╦╗╔═╗╔═╗╔═╗╔═╗ 082271426251 
 ╲┣━━━━━━┫%s╲╲╲╲╲╲╲%s║║║╠═╣╠═╣ ║ ╚═╗╠═╣╠═╝╠═╝
 ╲┃┈┈┈┈┈┈┃%s╲╲╲╲╲╲╲%s╚╩╝╩ ╩╩ ╩ ╩ ╚═╝╩ ╩╩  ╩" 
 
 echo $ij "
-       🔴●▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬●🔴
-     ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-     🔓━━━━━┫{🔘 FB : Faizul         }┣━━━━━🔓
-     🔓━━━━━┫{🔘 WA : 082271426251   }┣━━━━━🔓
-     🔓━━━━━┫{🔘 YT : HTC CTR GAMING }┣━━━━━🔓
-     ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-
+              
+          ✔ ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ✔    
                 ⤵ 🔴20 TOOLS HACKIG🔴 ⤵
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-┠──[1]⭕ HACK TARGET V1        
+┠──[1]⭕ HACK TARGET V1                                                      
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┠──[2]⭕ HACK FB PREMIUM     
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
@@ -73,6 +68,10 @@ echo $ij "
 ┠──[19]⭕ HACK WIFI 1.9
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┠──[20]⭕ NONTON FILEM BOKEP
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┠──[21]🔓 SPAM WATSAPPS UPDATE 9.9
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+┠──[22]🔓 HACK GRUB FB 9.0
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┗────[99] EXIT/PROGRAM🔴"
 echo '\033[35;1m'
@@ -312,6 +311,30 @@ pip2 install mecahnize
 git clone https://github.com/Faizulboften/ToolsBokep
 cd ToolsBokep
 sh viral.sh
+fi
+
+if [ $bro = 21 ] || [ $bro = 21 ]
+then
+clear
+echo $cyan " MENGINSTALL DULU🔓"
+sleep 10
+pkg install git
+pip2 install lolcat
+git clone https://github.com/sandiwijayani1/SpamWa
+cd SpamWa
+python3 spam.py
+fi
+
+if [ $bro = 22 ] || [ $bro = 22 ]
+then
+clear
+echo $cyan " MENGINSTALL DULU 🔓"
+sleep 10
+echo $cyan " YALLAH AMPUNILAH DOSA MEREKA🔓"
+pip2 install requests
+git clone https://github.com/Mr-NemrMedo/fb-group-hack
+cd fb-group-hack
+python2 fb-group-hack.py
 fi
 
 
