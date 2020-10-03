@@ -306,7 +306,7 @@ chmod 777 wifite.py
 python2 wifite.py
 fi
 
-if [ $bro = 19 ] || [ = $bro = 19 ]
+if [ $bro = 20 ] || [ = $bro = 20 ]
 then
 clear
 echo $cyan " MENGGINSTALL TOOLS BOKEP"
