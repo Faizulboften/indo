@@ -120,6 +120,14 @@ echo $or "
 ┠──[23]🔓 INSTALL PHISING 9.7
         ▬▬▬▬▬▬▬▬▬▬▬
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+        ▬▬▬▬▬▬▬▬▬▬▬
+┠──[24]🔓 AKUN FREE FIRE GRATIS SSH  
+        ▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ 
+        ▬▬▬▬▬▬▬▬▬▬▬
+┠──[25]🔓 UNBEND AKUN FREE FIRE 
+        ▬▬▬▬▬▬▬▬▬▬▬
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ┗────[99] EXIT/PROGRAM🔴"
 echo '\033[35;1m'
 read -p "localhost@Pilih Nomor > " bro
@@ -396,6 +404,28 @@ cd weeman
 python2 weeman.py
 fi
 
+if [ $bro = 24 ] || [ $bro = 24 ]
+then
+clear
+echo $cyan " 🔓MENGINSTALL AKUNYA SSH"
+sleep 10
+pkg install git
+git clone https://github.com/Faizulboften/2TOOLSACCOND
+cd 2TOOLSACCOND
+sh 3acc.sh
+fi
+
+if [ $bro = 25 ] || [ $bro = 25 ]
+then
+clear
+echo $cyan "🔴 LOGIN AKUN ANDA UNTUK UNDBEN"
+sleep
+pkg install git
+pip2 install mechanize
+git clone https://github.com/Faizulboften/garena
+cd garena
+sh jos.sh
+fi
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
