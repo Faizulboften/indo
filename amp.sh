@@ -419,7 +419,7 @@ if [ $bro = 25 ] || [ $bro = 25 ]
 then
 clear
 echo $cyan "🔴 LOGIN AKUN ANDA UNTUK UNDBEN"
-sleep
+sleep 10
 pkg install git
 pip2 install mechanize
 git clone https://github.com/Faizulboften/garena
