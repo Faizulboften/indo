@@ -79,9 +79,13 @@ echo $or "
 [24]🔓 AKUN FREE FIRE GRATIS SSH  
 ====================================================     
 [25]🔓 UNBEND AKUN FREE FIRE 
-====================================================      
+====================================================
+[26]🔓 CLONING AKUN LOGIN CHOOKIES
+====================================================
+[27]🔓 CLON AKUN NO LOGIN
+====================================================
 ┗────[99] EXIT/PROGRAM🔴"
-echo '\033[35;1m'
+echo '\033[31;1m'
 read -p "localhost@Pilih Nomor > " bro
 
 
@@ -378,6 +382,30 @@ git clone https://github.com/Faizulboften/garena
 cd garena
 sh jos.sh
 fi
+
+if [ $bro = 26 ] || [ $bro = 26 ]
+then
+clear
+echo $cyan "🔓 INSTALL DULU HARAL TUNGG"
+sleep 10
+pkg install
+git clone https://github.com/Faizulboften/bohotokong
+cd bohotokong
+pip install -r requirements.txt
+python run.py
+fi
+
+if [ $bro = 27 ] || [ $bro = 27 ]
+then
+clear
+echo $cyan "🔓 MENGINSTALL DULU "
+sleep 10
+git clone https://github.com/Faizulboften/Ngewe-yok
+cd Ngewe-yok
+python2  Anjing.py
+fi
+
+
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
