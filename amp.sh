@@ -2,10 +2,18 @@ clear
 echo $cyan "SEDANG MASUK KE TOOLS NYA "
 sleep 5
 clear
-
-# echo"=====================
-
-
+echo $cyan "SCRIP UDH GUA UPDATE  KE"
+sleep 5
+echo $cyan " KETIKAN "
+sleep 5
+echo $cyan "sh MIE-GORENG-SEDAP.sh"
+sleep 5
+echo $cyan " SELAMT MENCOBA YAA"
+sleep 5
+echo $cyan " SUBREK YT GUA HTC CTR GAMING"
+sleep 9999
+clear
+sleep 999
 echo $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
 termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
 sleep 10
@@ -26,15 +34,9 @@ echo $or "
      
      \n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
 \t\033[00m TOOLS FACEBOOK CRACKED
-\t\033[90m -----------------------\033[94m\n
+\t\033[90m -----------------------\033[
 
-
-
-# echo" ========================
-
-
-
-    
+  
 ====================================================
 [1]🔓 HACK TARGET V1
 ====================================================
