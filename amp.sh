@@ -2,6 +2,10 @@ clear
 echo $cyan "SEDANG MASUK KE TOOLS NYA "
 sleep 5
 clear
+
+# echo"=====================
+
+
 echo $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
 termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
 sleep 10
@@ -23,6 +27,13 @@ echo $or "
      \n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
 \t\033[00m TOOLS FACEBOOK CRACKED
 \t\033[90m -----------------------\033[94m\n
+
+
+
+# echo" ========================
+
+
+
     
 ====================================================
 [1]🔓 HACK TARGET V1
