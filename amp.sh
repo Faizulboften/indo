@@ -1,12 +1,12 @@
 clear
 sleep 4
-echo $cyan "\033[32;1mSELAMAT DATANG DI TOOLS
+echo $ij "SELAMAT DATANG DI TOOLS
 sleep 5
-echo $cyan "033[32;1mSUBREK YT GUA HTC CTR GAMING"
+echo $ij "SUBREK YT GUA HTC CTR GAMING"
 sleep 3
 clear
 sleep 4
-echo $cyan "033[32;1mSELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
+echo $ij "SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
 termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
 sleep 12
 bi='\033[34;1m' #biru
@@ -26,13 +26,13 @@ echo $me "
   / ___| |__   __ _ _ __  _ __   ___| |
  | |   | '_ \ / _` | '_ \| '_ \ / _ \ |
  | |___| | | | (_| | | | | | | |  __/ |
-  \____|_| |_|\__,_|_| |_|_| |_|\___|_|
+  \____|_| |_|\__,_|_| |_|_| |_|\___|_|"
 
 echo $or "   
-╔════════════════════════════════════════════╗
-           *AUTHOR 《 FAIZUL BOFTEN 》
-           *Whatsapp 《 082271426251 
-╚════════════════════════════════════════════╝"
+echo $oj "╔════════════════════════════════════════════╗"
+echo $ij         *AUTHOR 《 FAIZUL BOFTEN 》"
+echo $ij "       *Whatsapp 《 082271426251 》"
+echo $ij "╚════════════════════════════════════════════╝"
 
 ╔════════════════════════════════════════════╗
           ✔ MENU TOOLS-MR JULONG
