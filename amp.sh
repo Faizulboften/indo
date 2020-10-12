@@ -1,22 +1,14 @@
 clear
-echo $cyan "SEDANG MASUK KE TOOLS NYA "
+sleep 4
+echo $cyan "\033[32;1mSELAMAT DATANG DI TOOLS
 sleep 5
+echo $cyan "033[32;1mSUBREK YT GUA HTC CTR GAMING"
+sleep 3
 clear
-echo $cyan "SCRIP UDH GUA UPDATE  KE"
-sleep 5
-echo $cyan " KETIKAN "
-sleep 5
-echo $cyan "sh MIE-GORENG-SEDAP.sh"
-sleep 5
-echo $cyan " SELAMT MENCOBA YAA"
-sleep 5
-echo $cyan " SUBREK YT GUA HTC CTR GAMING"
-sleep 9999
-clear
-sleep 999
-echo $cyan " SELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
+sleep 4
+echo $cyan "033[32;1mSELMANT DATANG DI SCRIP TOOLS BY FAIZUL "
 termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
-sleep 10
+sleep 12
 bi='\033[34;1m' #biru
 ij='\033[32;1m' #ijo
 pr='\033[35;1m' #purple
@@ -25,75 +17,60 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
-echo $ij "
-\n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-\t\033[00m FACEBOOK EROR  SISTEM✔
-\t\033[90m -----------------------\033[94m\n"
-                
+echo $pu "
+\033[31;1m██╗  ██╗████████╗ ██████╗                                   
+\033[31;1m██║  ██║╚══██╔══╝██╔════╝                                   
+\033[31;1m███████║   ██║   ██║                                        
+\033[31;1m██╔══██║   ██║   ██║                                        
+\033[31;1m██║  ██║   ██║   ╚██████╗                                   
+\033[31;1m╚═╝  ╚═╝   ╚═╝    ╚═════╝                                   
+                                                            
+\033[37;1m██████╗██╗  ██╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██╗     
+\033[37;1m██╔════╝██║  ██║██╔══██╗████╗  ██║████╗  ██║██╔════╝██║     
+\033[37;1m██║     ███████║███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██║     
+\033[37;1m██║     ██╔══██║██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██║     
+\033[37;1m╚██████╗██║  ██║██║  ██║██║ ╚████║██║ ╚████║███████╗███████╗"
+\033[37;1m╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚══════╝
+   
 echo $or "   
+    \033[32;1m╔════════════════════════════════════════════╗
+            \033[31;1m*AUTHOR 《 FAIZUL BOFTEN 》
+           \033[31;1m*Whatsapp 《 082271426251 》
+    \033[32;1m╚════════════════════════════════════════════╝"       
      
-     \n\t\033[90m~  ~  ~\033[92m┌∩┐\033[94m(\033[91m◣_◢\033[94m)\033[92m┌∩┐\033[90m~  ~  ~
-\t\033[00m TOOLS FACEBOOK CRACKED
-\t\033[90m -----------------------\033[
-
   
-====================================================
-[1]🔓 HACK TARGET V1
-====================================================
-[2]🔓 HACK FB PREMIUM
-====================================================
-[3]🔓 PERUSAK HP
-====================================================
-[4]🔓 HACK TARGET V2
-====================================================
-[5]🔓 SPAM BRUTAL
-====================================================
-[6]🔓 MEMBUKA FILE TERKUNCI BS4 
-====================================================
-[7]🔓 HACK AKUN G7 PROJECT 
-====================================================
-[8]🔓 JADWAL SHOLAT 
-====================================================       
-[9]🔓 HACK TARGET V3 
-====================================================
-[10]🔓 CLON INDIA 
-====================================================        
-[11]🔓 INSTALL BAHAN 
-====================================================      
-[12]🔓 MEMBUAT DEFICE 
-====================================================        
-[13]🔓 CLON AKUN TANPA LOGIN 
-====================================================
-[14]🔓 INSTALL METASPLOIT 
-====================================================       
-[15]🔓 MENGHAPUS DATA SCRIP TERMUX
-====================================================     
-[16]🔓 NEMBAK APK GOFOOD
-====================================================
-[17]🔓 BOT AUTO RECTION FACEBOOK
-====================================================
-[18]🔓 MENDEGARKAN MUSIK DI TERMUX
-====================================================        
-[19]🔓 HACK WIFI 1.9
-====================================================       
-[20]🔓 NONTON FILEM BOKEP
-====================================================        
-[21]🔓 SPAM WATSAPPS UPDATE 9.9
-====================================================        
-[22]🔓 HACK GRUB FB 9.0
-====================================================        
-[23]🔓 INSTALL PHISING 9.7
-====================================================       
-[24]🔓 AKUN FREE FIRE GRATIS SSH  
-====================================================     
-[25]🔓 UNBEND AKUN FREE FIRE 
-====================================================
-[26]🔓 CLONING AKUN LOGIN CHOOKIES
-====================================================
-[27]🔓 CLON AKUN NO LOGIN
-====================================================
-┗────[99] EXIT/PROGRAM🔴"
-echo '\033[31;1m'
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[1] HACK TARGET V1
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[2] HACK FB PREMIUM
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[3] PERUSAK HP
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[4] HACK TARGET V2
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[5] SPAM BRUTAL
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[6] MEMBUKA FILE TERKUNCI BS4 
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[7] HACK AKUN G7 PROJECT 
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[8] JADWAL SHOLAT 
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[9] HACK TARGET V3 
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╔════════════════════════════════════════════╗
+ \033[31;1m[10] CLON INDIA 
+\033[32;1m╚════════════════════════════════════════════╝
+\033[32;1m╚══════════[99] EXIT/PROGRAM🔴"
+echo '\033[37;1m'
 read -p "localhost@Pilih Nomor > " bro
 
 
@@ -212,208 +189,6 @@ pkg install curll
 git clone https://github.com/hearthackerBabar/FbCloningIndia
 cd FbCloningIndia
 python2 FbIndia.py
-fi
-
-if [ $bro = 11 ] || [ $bro = 11 ]
-then
-clear
-sleep 5
-echo $cyan " HARAP MENUGGU SEDANG MENGINSTALL "
-sleep 10
-pkg install lolcat
-pkg install nano
-pkg install git
-git clone
-pip2 install meyzu
-pip2 install requests
-pip2 install mechanize
-pip2 install php 
-fi
-
-if [ $bro = 12 ] || [ $bro = 12 ]
-then
-clear
-echo $cyan "MENGGINSTTALL COK"
-sleep 10
-pkg instalk git
-git clone https://github.com/G7-Hckr/G7Deface
-cd G7Deface
-cd G7Deface
-sh dfc.sh
-fi
-
-if [ $bro = 13 ] || [ $bro = 13 ]
-then
-clear
-echo $cyan " SEDANG MENGGINSTALL HARAP TUNGGU"
-sleep 50
-pip2 install requests
-pip2 install mechanize
-pkg install git
-echo $cyan "SCRIP MASI EROR
-git clone https://github.com/NoobHackersCOM/Sensei
-cd Sensei
-python2 main.py
-fi
-
-if [ $bro = 14 ] || [ $bro = 14 ]
-then
-clear
-echo $cyan " SABAR SOBAT MENGGINSTALL "
-sleep 40
-pkg install curl
-curl -LO https://raw.githubusercontent.com/Hax4us/Metasploit_termux/master/metasploit.sh
-chmod +x metasploit.sh
-./metasploit.sh
-fi
-
-if [ $bro = 15 ] || [ $bro = 15 ]
-then
-clear
-echo $cyan " MOHOM BERSABAR LAGI MEMUAT DATANYA"
-sleep 50
-pip2 install mc
-pkg install mc
-mc
-fi
-
-if [ $bro = 16 ] || [ = $bro = 16 ]
-then
-clear
-echo $cyan " MENGINSTALL HARAP TUNGGU
-sleep 20
-pkg install git
-echo $cyan " BELUM RILIS LAGI"
-fi
-
-if [ $bro = 17 ] || [ = $bro =17 ]
-then
-clear
-echo $cyab " MENGGINSTALL SCRIP"
-sleep 20
-pip2 install mechanize
-echo $cyan " SCRIP UPADTE SELESAI SELMAT MENGUNAKAN"
-git clone git clone https://github.com/AMVengeance/FB-React.git
-chmod +x FB-React -R
-cd FB-React
-./start
-fi
-
-if [ $bro = 18 ] || [ = $bro = 18 ]
-then
-clear
-echo $cyan " MENGINSTALL CUK"
-sleep 20
-pkg install mpv
-mpv /lokasi/musik/musik.mp3
-fi
-
-if [ $bro = 19 ] || [ = $bro = 19 ]
-then
-clear
-echo $cyan " MENGGINSTALL CUK"
-sleep 20
-echo $cyan " Hack WIFI DI TERMUX MANA BISA HALU KALIAN"
-pkg install git
-git clone https://github.com/derv82/wifite
-cd wifite
-chmod 777 wifite.py
-python2 wifite.py
-fi
-
-if [ $bro = 20 ] || [ = $bro = 20 ]
-then
-clear
-echo $cyan " MENGGINSTALL TOOLS BOKEP"
-pkg install git
-pip2 install mecahnize
-git clone https://github.com/Faizulboften/ToolsBokep
-cd ToolsBokep
-sh viral.sh
-fi
-
-if [ $bro = 21 ] || [ $bro = 21 ]
-then
-clear
-echo $cyan " MENGINSTALL DULU🔓"
-sleep 10
-pkg install git
-pip2 install lolcat
-git clone https://github.com/sandiwijayani1/SpamWa
-cd SpamWa
-python3 spam.py
-fi
-
-if [ $bro = 22 ] || [ $bro = 22 ]
-then
-clear
-echo $cyan " MENGINSTALL DULU 🔓"
-sleep 10
-echo $cyan " YALLAH AMPUNILAH DOSA MEREKA🔓"
-pip2 install requests
-git clone https://github.com/Mr-NemrMedo/fb-group-hack
-cd fb-group-hack
-python2 fb-group-hack.py
-fi
-
-if [ $bro = 23 ] || [ $bro = 23 ]
-then
-clear
-echo $cyan "MENGINSTALL PHISING🔓"
-sleep 10
-pkg install git
-pkg install nano
-git clone https://github.com/evait-security/weeman
-cd weeman
-python2 weeman.py
-fi
-
-if [ $bro = 24 ] || [ $bro = 24 ]
-then
-clear
-echo $cyan " 🔓MENGINSTALL AKUNYA SSH"
-sleep 10
-pkg install git
-git clone https://github.com/Faizulboften/2TOOLSACCOND
-cd 2TOOLSACCOND
-sh 3acc.sh
-fi
-
-if [ $bro = 25 ] || [ $bro = 25 ]
-then
-clear
-echo $cyan "🔴 LOGIN AKUN ANDA UNTUK UNDBEN"
-sleep 10
-pkg install git
-pip2 install mechanize
-git clone https://github.com/Faizulboften/garena
-cd garena
-sh jos.sh
-fi
-
-if [ $bro = 26 ] || [ $bro = 26 ]
-then
-clear
-echo $cyan "🔓 INSTALL DULU HARAL TUNGG"
-sleep 10
-pkg install
-git clone https://github.com/Faizulboften/bohotokong
-cd bohotokong
-pip install -r requirements.txt
-python run.py
-fi
-
-if [ $bro = 27 ] || [ $bro = 27 ]
-then
-clear
-echo $cyan "🔓 MENGINSTALL DULU "
-sleep 10
-git clone https://github.com/Faizulboften/Ngewe-yok
-cd Ngewe-yok
-python2  Anjing.py
-fi
-
-
 
 if [ $bro = 99 ] || [ $bro = 99 ]
 then
