@@ -6,7 +6,7 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 or='\033[1;38;5;208m' #Orange
-clera
+clear
 sleep 5
 echo $cyan "SUBREK YT HTC CTR GAMING😂
 termux-open https://www.youtube.com/channel/UCSxkYGsMV5DvXz4GQJskl9Q
